@@ -41,6 +41,7 @@ export const ProductTable = styled.table`
   tbody td {
     padding: 12px;
     border-bottom: 1px solid #eee;
+    max-width: 200px;
   }
 
   img {
